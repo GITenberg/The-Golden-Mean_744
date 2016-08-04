@@ -1,0 +1,26 @@
+_repo: The-Golden-Mean_744
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Nemiroff, Robert J.
+    gutenberg_agent_id: '77'
+    url: http://www.gutenberg.org/2009/agents/77
+  - agent_name: Bonnell, Jerry T.
+    gutenberg_agent_id: '78'
+    url: http://www.gutenberg.org/2009/agents/78
+description: To a million digits
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematics'
+- !lcc 'QA'
+- GITenberg
+title: The Golden Mean
+url: http://www.gutenberg.org/ebooks/744
