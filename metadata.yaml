@@ -1,5 +1,8 @@
 _repo: The-Golden-Mean_744
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Nemiroff, Robert J.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '78'
     url: http://www.gutenberg.org/2009/agents/78
 description: To a million digits
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/744#The-Golden-Mean
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '1996-12-01'
 gutenberg_type: Text
